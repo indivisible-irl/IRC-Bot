@@ -1,0 +1,23 @@
+[settings]
+
+## bot user:
+nick     = indibot
+password = asddasdd
+
+## channel:
+channel  = indibot-test        # DO NOT use #channel. Omit '#'
+network  = irc.freenode.net
+port     = 6667
+
+## database:
+db_name = d4rkjfo073ktf2
+db_user = axhbwxeemrkdwj
+db_pass = KakrsYGxgotME8zyk10THC1OKI
+db_host = ec2-54-247-125-202.eu-west-1.compute.amazonaws.com
+db_port = 5432
+
+## bot settings
+command_prefix    = !
+quit              = !!quit      # depreciated
+logAllToConsole   = False       # True or False
+respondToNotFound = True        # True or False
